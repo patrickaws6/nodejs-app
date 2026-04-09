@@ -34,7 +34,7 @@
     ],
     "family": "nodejs-app-task-definition",
     "taskRoleArn": "arn:aws:iam::763857617563:role/ecsTaskExecutionRole",
-    "executionRoleArn": "arn:aws:iam::763857617563:role/ecsTaskExecutionRole",
+    "executionRoleArn": "arn:aws:iam::057654277515:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
     "revision": 3,
     "volumes": [],
